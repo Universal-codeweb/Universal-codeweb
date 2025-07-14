@@ -14,7 +14,7 @@ I'm always open to interesting discussions about tech, space, or anything in bet
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC8NMyEMFbQTsSWUAtPRlk4Q)
 
 [//]: # (You can add GitHub stats later when you have more activity)
-![Your GitHub stats][![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Universal-codeweb&show_icons=true&theme=tokyonight))](https://github.com/Universal-codeweb/github-readme-stats)
----
+[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Universal-codeweb&show_icons=true&theme=tokyonight))](https://github.com/Universal-codeweb/github-readme-stats)
+
 
 ⭐ From [Swetha](https://github.com/Universal-codeweb)
