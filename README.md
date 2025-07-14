@@ -22,6 +22,12 @@ I'm always open to interesting discussions about tech, space, or anything in bet
 ![](https://github-readme-stats.vercel.app/api?username=Universal-codeweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Universal-codeweb&theme=dark&hide_border=false)<br/>
 
+**Development Tools:**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IDLE](https://img.shields.io/badge/IDLE-Python_IDE-3776AB?style=flat&logo=python&logoColor=white)
+
+*Design Tools:*
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ---
 
 
