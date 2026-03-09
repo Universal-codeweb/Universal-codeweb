@@ -2,6 +2,9 @@
 
 🌌 Computer Science Student | 💻 Learner | ✨ Astronomy Enthusiast | ✍️ Occasional Writer
 - Currently pursuing my computer science degree in K. S. Rangasamy college of technology
+- I am into solving problems and generating solution for a problem statement came through my idea on
+                -- Nursing skill development
+                -- Exoplanet learning and research platform
 - Learning new technologies and programming paradigms
 - Exploring the mysteries of the universe through astronomy
 - Writing technical and creative content
@@ -17,17 +20,32 @@ I'm always open to interesting discussions about tech, space, or anything in bet
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Universal-codeweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Universal-codeweb&theme=dark&hide_border=false)<br/>
 
 **Development Tools:**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IDLE](https://img.shields.io/badge/IDLE-Python_IDE-3776AB?style=flat&logo=python&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IDLE](https://img.shields.io/badge/IDLE-Python%20IDE-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0A0E27?style=for-the-badge&logo=cursor&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FFB703?style=for-the-badge&logoColor=white)
+![Scrimba](https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 
 *Design Tools:*
+
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
 ---
 
 
