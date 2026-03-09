@@ -28,10 +28,12 @@ I'm always open to interesting discussions about tech, space, or anything in bet
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Universal-codeweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Universal-codeweb&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Universal-codeweb&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=Universal-codeweb&theme=dark" />
+</p>
 **Development Tools:**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
